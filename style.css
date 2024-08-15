@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.box1{
+    width: 500px;
+    height: 900px;
+    background-color: rgb(20, 20, 44);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.mini-box3{
+    width: 500px;
+    height: 150px;
+}
+.foto1{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 490px;
+    height: 300px;
+    margin: 5px 4px;
+}
+.tech{
+    margin: 0px 100px;
+    font-size: 20px;
+    color: white;
+}
+.ul1{
+    margin: 20px 120px;
+    color: white;
+}
+.mini-box4{
+    width: 500px;
+    height: 150px;
+}
+.soft{
+    margin: 0px 100px;
+    font-size: 20px;
+    color: white;
+}
+.ul2{
+    margin: 20px 120px;
+    color: white;
+}
+.box2{
+    width: 700px;
+    height: 900px;
+}
+.mini_box1{
+    width: 430px;
+    height: 200px;
+    margin: 0px 200px;
+}
+.name{
+    font-size: 50px;
+    color: red;
+}
+.text1{
+    font-size: 20px;
+}
+.mini_box2{
+    width: 430px;
+    height: 120px;
+    margin: 30px 200px;
+}
+.project{
+    margin: 10px 0px;
+    font-size: 30px;
+}
+.ol{
+    margin: 0px 30px;
+    font-size: 17px;
+    color: gray;
+}
+.mini_box3{
+    width: 500px;
+    height: 300px;
+    margin: 10px 200px;
+}
+span{
+    color: red;
+}
+.work{
+    margin: 10px 0px;
+    font-size: 30px;
+}
+.country{
+    font-size: 13px;
+    color: grey;
+}
+.ul3{
+    margin: 0px 30px;
+}
+li{
+    margin: 5px 0px;
+}
+.mini_box4{
+    width: 430px;
+    height: 120px;
+    margin: -40px 200px;
+}
+.management{
+    color: red;
+}
+.ul4{
+    margin: 0px 30px;
+}
+.box3{
+    margin: 0px 100px;
+    width: 500px;
+    height: 900px;  
+}
+.minibox1{
+    margin: 50px 0px;
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 255, 0.295);
+}
+.cont{
+    margin: 0px 175px;
+    font-size: 40px;
+    color: black;
+}
+.mini1{
+    color: rgb(0, 0, 0);
+    margin: 50px 20px;
+    font-size: 25px;
+}
+.phone{
+    margin: 30px;
+}
+.email{
+    margin: 30px;
+}
+.telegram{
+    margin: 30px;
+}
+.minibox2{
+    margin: 50px 0px;
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.foto2{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+}
